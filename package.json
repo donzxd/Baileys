@@ -1,24 +1,24 @@
 {
-  "name": "@skyzopedia/baileys",
+  "name": "@donzxd/baileys",
   "version": "2.0.2",
-  "description": "@skyzopedia/baileys",
+  "description": "@donzxd/baileys",
   "keywords": [
     "baileys",
-    "skyzopedia",
+    "donzxd",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "automation",
     "multi-device",
-    "skyzopedia"
+    "donzxd"
   ],
-  "homepage": "https://www.npmjs.com/package/@skyzopedia/baileys",
+  "homepage": "https://www.npmjs.com/package/@donzxd/baileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/@skyzopedia/baileys"
+    "url": "https://www.npmjs.com/package/@donzxd/baileys"
   },
   "license": "MIT",
-  "author": "skyzopedia",
+  "author": "donzxd",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -37,8 +37,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo 'skyzopedia baileys'",
-    "prepare": "echo 'skyzopedia baileys'",
+    "prepack": "echo 'donzxd baileys'",
+    "prepare": "echo 'donzxd baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
@@ -54,7 +54,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:skyzopedia/libsignal-node",
+    "libsignal": "github:donzxd/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
