@@ -1,24 +1,24 @@
 {
-  "name": "@donzxd/baileys",
+  "name": "@donzxdxy/baileys",
   "version": "2.0.2",
-  "description": "@donzxd/baileys",
+  "description": "@donzxdxy/baileys",
   "keywords": [
     "baileys",
-    "donzxd",
+    "donzxdxy",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "automation",
     "multi-device",
-    "donzxd"
+    "donzxdxy"
   ],
-  "homepage": "https://www.npmjs.com/package/@donzxd/baileys",
+  "homepage": "https://www.npmjs.com/package/@donzxdxy/baileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/@donzxd/baileys"
+    "url": "https://www.npmjs.com/package/@donzxdxy/baileys"
   },
   "license": "MIT",
-  "author": "donzxd",
+  "author": "donzxdxy",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -37,8 +37,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo 'donzxd baileys'",
-    "prepare": "echo 'donzxd baileys'",
+    "prepack": "echo 'donzxdxy baileys'",
+    "prepare": "echo 'donzxdxy baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
@@ -54,7 +54,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:donzxd/libsignal-node",
+    "libsignal": "github:donzxdxy/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
